@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+
+.entrada {
+    width: 40px;
+    border: none;
+    background-color: white;
+    border-bottom: 2px solid brown;
+}
